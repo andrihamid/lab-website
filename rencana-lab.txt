@@ -1,6 +1,6 @@
 Rencana Website Lab:
-- Menentukan template
 - Konsisten sharing courses
 - Mengadakan workshop 2x seminggu
 - Mengundang expert untuk mengisi webinar
 - Melakukan kolaborasi
+- Modifikasi template
